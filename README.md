@@ -21,3 +21,5 @@ Wygląd końcowy płytki góra:
 
 W przypadku symulacji 
 Zasilacz po zmontowaniu działał zadawalająco prąd mieścił się w zakresie 0-1,7A a napięcie od 1,3 do 14,6 dobierając lepszej jakości rezystory można poprawić zakres na bardziej zbliżony do oczekiwanych.
+W przypadku Symulacji należy oddzielnie przeprowadić dla stabilizaci  napięcia jak i natężenia bo inaczej trwa długo
+dodatkowo w przypadku nateżenia trzeba dodać rezystor na wyjściu układu
