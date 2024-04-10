@@ -1,4 +1,5 @@
 # Zasilacz-stabilizowany-bez-wykorzystania-LM317
+# Regulated power supply without using LM317.
 Zasilacz został wykonany w programie Eagle.
 Płytka została wykonan z możliwością wsadzenia jej do obudowy dlatego schemat końcowy może różnić się względem shcematu płytki
 bezpiecznik jak i transformator znajdują się poza nią tak samo potencjometry
