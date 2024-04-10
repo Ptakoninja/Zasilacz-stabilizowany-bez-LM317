@@ -20,6 +20,7 @@ Resistors R3 (RV) and RA are used to set specific voltage/current values. The fi
 ![image](https://github.com/Ptakoninja/Zasilacz-stabilizowany-bez-LM317/assets/164054955/8095e5de-0841-49d7-81fb-665919786744)
 
 schemat wykorzystany do stowrzenia płytki PCB:
+
 **ENG**
 The schematic used to create the PCB board is as follows:
 
